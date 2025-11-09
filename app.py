@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 import random
 
-st.header('Heart Disease Prediction Using Machine Learning')
+st.header('💓Heart Disease Prediction Using Machine Learning')
 
 data = '''Heart Disease Prediction using Machine Learning Heart disease prevention is critical, and data-driven prediction systems can significantly aid in early diagnosis and treatment. Machine Learning offers accurate prediction capabilities, enhancing healthcare outcomes. In this project, I analyzed a heart disease dataset with appropriate preprocessing. Multiple classification algorithms were implemented in Python using Scikit-learn and Keras to predict the presence of heart disease.
 
@@ -14,7 +14,7 @@ Algorithms Used:
 
 **Naive Bayes**
 
-**Support Vector Machine (Linear)**
+**Support Vector Machine**
 
 **K-Nearest Neighbors**
 
@@ -85,3 +85,15 @@ else:
 
 
 st.markdown('Designed by: **Ankit Mishra**')
+
+st.markdown("""
+## 🌐 Connect With Me
+
+👨‍💻 **Author:** [Ankit Mishra](https://github.com/ankitmisk)  
+
+💼 [**LinkedIn**](https://www.linkedin.com/in/ankitmisk)  
+🐦 [**Twitter**](https://twitter.com/ankitmisk)  
+📸 [**Instagram**](https://www.instagram.com/ankitmisk)  
+📧 **Email:** [ankitmisk@gmail.com](mailto:ankitmisk@gmail.com)
+""")
+
