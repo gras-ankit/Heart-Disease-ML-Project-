@@ -29,7 +29,7 @@ The application is built using:
 
 ## 🖼️ App Preview
 
-![App Screenshot](https://www.shutterstock.com/image-vector/abstract-blue-human-heart-red-600nw-2526983201.jpg)
+![App Screenshot](https://github.com/gras-ankit/Heart-Disease-ML-Project-/blob/main/Project%20Preview%20heart-disease-prediction-by-ankit-streamlit-app.png?raw=true)
 
 ### 🎯 Features
 - Interactive sidebar sliders for all medical parameters.
@@ -45,3 +45,4 @@ The application is built using:
    ```bash
    git clone https://github.com/ankitmisk/Heart_Disease_Prediction_ML_Model.git
    cd Heart_Disease_Prediction_ML_Model
+
